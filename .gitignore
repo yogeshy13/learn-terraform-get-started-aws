@@ -1,0 +1,7 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+*.pem
+*.pub
+terraform.tfvars
+.terraform.lock.hcl
